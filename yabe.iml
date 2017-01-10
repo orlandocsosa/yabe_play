@@ -9,6 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="play-1.4.3" level="project" />
+    <orderEntry type="library" name="javax.persistence" level="project" />
     <orderEntry type="library" name="junit-4.12" level="project" />
   </component>
 </module>

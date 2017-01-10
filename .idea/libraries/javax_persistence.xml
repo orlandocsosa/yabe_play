@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="junit-4.12">
+  <library name="javax.persistence">
     <CLASSES>
-      <root url="jar://C:/tools/jar/junit-4.12.jar!/" />
+      <root url="jar://C:/tools/jar/javax.persistence.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
